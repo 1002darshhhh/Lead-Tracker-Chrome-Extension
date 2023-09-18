@@ -1,5 +1,5 @@
 # Lead-Tracker-Chrome-Extension
-####The Lead Tracker Chrome Extension allows you to save and manage leads directly from your browser. Easily capture potential leads' information or website URLs for future reference.
+#### The Lead Tracker Chrome Extension allows you to save and manage leads directly from your browser. Easily capture potential leads' information or website URLs for future reference.
 
 ## Features
 #### 1.Save lead information with a simple user interface.
